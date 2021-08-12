@@ -1,3 +1,4 @@
+```
 ----
 local allWeapons = {
 	"WEAPON_KNIFE",
@@ -1299,3 +1300,4 @@ end
                       local Exist = DoesEntityExist(ped)
                       local Dead = IsPlayerDead(ped)
                       local TargetCoords = GetPedBoneCoords(ped, 3... (เหลืออีก 14 KB)
+		      ```
